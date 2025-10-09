@@ -13,7 +13,7 @@ I’m a backend-focused software developer with 4+ years of experience building 
 `AWS` `Azure DevOps` `Visual Studio` `SQL Server Management Studio` `Postman` `Git` `GitHub`
 
 **Design Patterns:**  
-`Dependency Injection` `Repository Pattern` `Factory Pattern` `Singleton`
+`Repository Pattern` `Factory Pattern` `Singleton` `Microservices`
 
 ---
 
