@@ -1,76 +1,87 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&text=Hey%2C%20I'm%20Shashwat%20Singh!&fontAlign=50&fontSize=45&fontColor=fff&animation=fadeIn)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Backend+Engineer+⚙️;Data+Science+%26+ML+Explorer+📊;Automation+%7C+AI+%7C+Clean+Architecture+💡" alt="Typing Animation" />
+
+</div>
+
+---
+
+### 👨‍💻 **About Me**
+> “Building systems that think, automate, and scale.”
+
+I’m a **backend-focused software developer** with **4+ years of experience** crafting scalable enterprise applications using **.NET, C#, ASP.NET MVC, and SQL Server**.  
+I love transforming messy logic into **elegant code** — the kind that saves hours, not adds them.
+
+💡 **A few things about me:**
+- 🔧 I’ve built automation workflows saving 200+ hours weekly across modules.  
+- ⚙️ I love modular architecture and debugging more than coffee (almost).  
+- 🧠 Currently diving deeper into **LangChain**, **Azure ML**, and **Agentic AI systems**.
+
+---
+
+### 🛠️ **Tech Stack**
+
+**Languages & Frameworks**  
+`C#` `ASP.NET MVC` `.NET 6/7` `Entity Framework` `JavaScript` `Python` `SQL`
+
+**Cloud & Tools**  
+`Azure` `AWS` `Azure DevOps` `Power BI` `SSMS` `Postman` `Git` `GitHub`
+
+**Architecture Patterns**  
+`Repository` `Factory` `Microservices` `Layered Architecture`
+
+---
+
+### 🚀 **Highlighted Projects**
+
+#### 🧾 **Invoice Collection Automation**
+Automated multi-module status updates, reducing manual workload by **200+ hours/week**.  
+🧩 _Clean architecture, layered design, and strong client collaboration._
+
+#### ✉️ **Email Parsing Service**
+Developed an email parser capable of handling **dynamic unstructured formats** for real-time ingestion.
+
+#### 📄 **PDF Invoicing API**
+Built an API to extract and process structured data from PDFs for seamless integration into enterprise systems.
+
+> Check out my pinned repos for complete case studies & code samples 🔗
+
+---
+
+### 📊 **Beyond the Backend**
+
+I’ve explored **Data Science & ML** through real projects:
+- 🤖 **Predictive Modeling & Classification**
+- 📈 **EDA, Feature Engineering, Visualization**
+- 🧩 **Model Deployment (Flask/FastAPI)**
+
+🧠 Currently learning how to combine **backend engineering** with **AI workflows** — bringing intelligence into automation.
+
+---
+
+### 🌐 **Let’s Connect**
 
 <div align="center">
 
-   <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Shashwat+Singh+!+👋" alt="Typing SVG" />
-<!-- The quote styled beneath the name -->
-  <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
-    I’m a backend-focused software developer with 4+ years of experience building scalable enterprise systems using .NET, C#, ASP.NET MVC, and SQL Server. I’ve worked on everything from invoicing automation to email parsing engines, and I’m passionate about clean architecture, automation, and writing code that actually solves business problems.
-  </p>
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwatsinghds/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatsinghds)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshashwat1996@gmail.com)
+
 </div>
 
+---
+
+### 🧩 **Fun Stats**
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shashwatsinghds&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatsinghds&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
-
 ---
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks:**  
-`C#` `ASP.NET MVC` `.NET 6/7` `Entity Framework` `JavaScript` `jQuery` `SQL` `Python`
-
-**Tools & Platforms:**  
-`AWS` `Azure DevOps` `Visual Studio` `SQL Server Management Studio` `Postman` `Git` `GitHub`
-
-**Design Patterns:**  
-`Repository Pattern` `Factory Pattern` `Singleton` `Microservices`
-
----
-
-## 🚀 Projects Worth Highlighting
-
-- **Invoice Collection Automation:**  
-  Automated status assignment for 30+ modules, saving over 200 hours/week in manual effort. Used clean logic, layered architecture, and client collaboration to deliver consistent results.
-
-- **Email Parsing Service:**  
-  Designed a robust parser for dynamic email formats to support real-time data ingestion. Debugged and deployed production fixes under time-critical scenarios.
-
-- **PDF Invoicing API Integration:**  
-  Created services to fetch structured data from invoice PDFs and feed them into a REST-based business rules engine.
-
-> *Check pinned repos for code, patterns, and use cases.*
-
----
-
-## 📊 Data Science & ML Exposure
-
-Alongside backend development, I’ve also explored **Data Science** and **Machine Learning** through hands-on projects and coursework.
-
-**Key Skills:**  
-`Python` `Pandas` `NumPy` `scikit-learn` `matplotlib` `seaborn` `Jupyter`
-
-**Topics Worked On:**  
-- Predictive modeling (classification & regression)
-- Exploratory data analysis (EDA)
-- Data cleaning and feature engineering
-- Visualization dashboards
-- ML model deployment basics
-
-🧠 Currently expanding into **Azure ML**, **LangChain**, and **AI-powered app development**.
-
----
-
-## 🌐 Let’s Connect
-
-📫 **Email:** singhshashwat1996@gmail.com
-🌐 **LinkedIn:** https://www.linkedin.com/in/shashwatsinghds  
-
----
-
-> Thanks for visiting!  
-> I’m always open to collaborating on clean backend systems, automation tools, or data-driven applications.
+⭐ *“Code that scales. Systems that last. Data that matters.”*  
+> _Thanks for stopping by!_ 🚀
