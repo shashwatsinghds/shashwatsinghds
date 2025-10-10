@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=Full +Stack+Engineer+⚙️;Data+Science+%26+ML+Explorer+📊;Automation+%7C+AI+%7C+Clean+Architecture+💡" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=700&lines=FullStack+Engineer+⚙️;Data+Science+%26+ML+Explorer+📊;Automation+%7C+AI+%7C+Clean+Architecture+💡" alt="Typing Animation" />
+
 
 </div>
 
