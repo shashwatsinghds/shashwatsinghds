@@ -1,6 +1,21 @@
-# 👋 Hi, I’m Shashwat Singh
 
-I’m a backend-focused software developer with 4+ years of experience building scalable enterprise systems using **.NET, C#, ASP.NET MVC**, and **SQL Server**. I’ve worked on everything from **invoicing automation** to **email parsing engines**, and I’m passionate about clean architecture, automation, and writing code that actually solves business problems.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontSize=40)
+
+<div align="center">
+
+   <!-- Typing effect for "Hi! I'm Riyanshi Bohra 👋" -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=F75C7E&lines=Hi!+I'm+Shashwat+Singh+!+👋" alt="Typing SVG" />
+<!-- The quote styled beneath the name -->
+  <p style="font-size: 20px; font-style: italic; color: #555; margin-top: 10px;">
+    I’m a backend-focused software developer with 4+ years of experience building scalable enterprise systems using **.NET, C#, ASP.NET MVC**, and **SQL Server**. I’ve worked on everything from **invoicing automation** to **email parsing engines**, and I’m passionate about clean architecture, automation, and writing code that actually solves business problems.
+  </p>
+ 
+</div>
+
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/43aa5811-cc06-4172-b904-1cbfc6ffd8fd" alt="Hostrider" width="400" height="200"/>
+</div>
+
 
 ---
 
