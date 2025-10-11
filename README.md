@@ -1,4 +1,6 @@
-          ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&text=Hey%2C%20I'm%20Shashwat%20Singh!&fontAlign=50&fontSize=45&fontColor=fff&animation=fadeIn)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&text=Hey%2C%20I%27m%20Shashwat%20Singh!&fontAlign=50&fontSize=45&fontColor=fff&animation=fadeIn" alt="Header"/>
+          
 
 <div align="center">
 
