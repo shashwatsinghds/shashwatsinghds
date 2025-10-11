@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&text=Hey%2C%20I'm%20Shashwat%20Singh!&fontAlign=50&fontSize=45&fontColor=fff&animation=fadeIn)
+          ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&text=Hey%2C%20I'm%20Shashwat%20Singh!&fontAlign=50&fontSize=45&fontColor=fff&animation=fadeIn)
 
 <div align="center">
 
@@ -18,7 +18,7 @@ I love transforming messy logic into **elegant code** — the kind that saves ho
 💡 **A few things about me:**
 - 🔧 I’ve built automation workflows saving 200+ hours weekly across modules.  
 - ⚙️ I love modular architecture and debugging more than coffee (almost).  
-- 🧠 Currently diving deeper into **LangChain**, **Azure ML**, and **Agentic AI systems**.
+- 🧠 Currently diving deeper into **,Android Development*, ***LangChain**, **Azure**, and **Agentic AI systems**.
 
 ---
 
