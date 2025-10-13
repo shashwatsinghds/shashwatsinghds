@@ -30,7 +30,7 @@ I love transforming messy logic into **elegant code** — the kind that saves ho
 `C#` `ASP.NET MVC` `.NET 6/7` `Entity Framework` `JavaScript` `Python` `SQL`
 
 **Cloud & Tools**  
-`Azure` `AWS` `Azure DevOps` `Power BI` `SSMS` `Postman` `Git` `GitHub`
+`Azure` `AWS` `Azure DevOps` `SSMS` `Postman` `Android Studio`
 
 **Architecture Patterns**  
 `Repository` `Factory` `Microservices` `Layered Architecture`
