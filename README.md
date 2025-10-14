@@ -41,7 +41,7 @@ I love transforming messy logic into **elegant code** — the kind that saves ho
 
 #### 🧾 **Invoice Collection Automation**
 Automated multi-module status updates, reducing manual workload by **200+ hours/week**.  
-🧩 _Clean architecture, layered design, and strong client collaboration._
+🧩 Clean architecture, layered design, and strong client collaboration._
 
 #### ✉️ **Email Parsing Service**
 Developed an email parser capable of handling **dynamic unstructured formats** for real-time ingestion.
