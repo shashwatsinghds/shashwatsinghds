@@ -20,7 +20,7 @@ I love transforming messy logic into **elegant code** — the kind that saves ho
 💡 **A few things about me:**
 - 🔧 I’ve built automation workflows saving 200+ hours weekly across modules.  
 - ⚙️ I love modular architecture and debugging more than coffee (almost).  
-- 🧠 Currently diving deeper into **Android Development**, ***LangChain**, **Azure**, and **Agentic AI systems**.
+- 🧠 Currently diving deeper into **Android Development**, **LangChain**, **Azure**, and **Agentic AI systems**.
 
 ---
 
